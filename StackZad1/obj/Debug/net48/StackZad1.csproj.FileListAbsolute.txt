@@ -1,0 +1,9 @@
+/home/kameleon/Desktop/StackZad1/StackZad1/bin/Debug/net48/StackZad1.exe.config
+/home/kameleon/Desktop/StackZad1/StackZad1/bin/Debug/net48/StackZad1.exe
+/home/kameleon/Desktop/StackZad1/StackZad1/bin/Debug/net48/StackZad1.pdb
+/home/kameleon/Desktop/StackZad1/StackZad1/obj/Debug/net48/StackZad1.csprojAssemblyReference.cache
+/home/kameleon/Desktop/StackZad1/StackZad1/obj/Debug/net48/StackZad1.AssemblyInfoInputs.cache
+/home/kameleon/Desktop/StackZad1/StackZad1/obj/Debug/net48/StackZad1.AssemblyInfo.cs
+/home/kameleon/Desktop/StackZad1/StackZad1/obj/Debug/net48/StackZad1.csproj.CoreCompileInputs.cache
+/home/kameleon/Desktop/StackZad1/StackZad1/obj/Debug/net48/StackZad1.exe
+/home/kameleon/Desktop/StackZad1/StackZad1/obj/Debug/net48/StackZad1.pdb
